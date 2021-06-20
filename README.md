@@ -8,7 +8,7 @@ This API has support for Users, Friends, Thoughts, and Reactions.
 1. Make sure you have MongoDB installed on your computer [MongoDB Website](https://docs.mongodb.com/manual/installation/)
 2. Install dependencies with `npm -i`
 3. Run `npm start` to run the server.
-4. Use your browser or an app like [Insomnia](https://insomnia.rest/) to test the API using the routes listed below.
+4. Use your browser or an app like [Insomnia](https://insomnia.rest/) to test the API using the routes listed below. You can also import the routes from the included insomnia.json file.
 
 ## Routes
 **User**
